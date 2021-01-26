@@ -1,0 +1,49 @@
+body {
+    font-size: 12pt;
+    font-family:Gill Sans, sans-serif, serif;
+    color: black;
+    line-height: 14pt;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    padding-top: 3pt;
+}
+
+h1.maintitles {
+   font: 28pt Rockwell;
+   font-weight: bold;
+   line-height: 14pt;
+}
+
+h3.flashy {
+   font: 10pt Gill Sans;
+   font-weight: bold;
+   line-height: 2pt;
+}
+
+h1.cool {
+    font: 24pt Arial;
+    font-weight: bold;
+    line-height: 8pt;
+}
+
+h2.aesthetic {
+    font: 18pt Gill Sans;
+    font-weight: normal;
+    line-height: 6pt;
+}
+
+h3.basic {
+    font: 14pt Arial;
+    font-weight: bold;
+    line-height: 2pt;
+}
+
+p {
+    font: 10pt Arial;
+    font-weight: normal;
+    line-height: 2pt;
+}
+
+img{
+    padding: 3pt;
+}
