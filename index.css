@@ -15,12 +15,14 @@ h1.maintitles {
    font: 28pt Rockwell;
    font-weight: bold;
    line-height: 14pt;
+   align-content: center;
 }
 
 h3.flashy {
    font: 10pt Gill Sans;
    font-weight: bold;
    line-height: 2pt;
+   align-content: center;
 }
 
 h1.cool {
